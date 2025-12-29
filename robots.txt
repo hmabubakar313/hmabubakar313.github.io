@@ -1,0 +1,8 @@
+# Robots.txt for Hafiz Muhammad Abubakar Portfolio
+# https://hmabubakar.dev
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://hmabubakar.dev/sitemap.xml

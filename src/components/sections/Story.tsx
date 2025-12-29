@@ -105,7 +105,7 @@ const Story = ({ setActiveSection }: StoryProps) => {
                     }}
                   >
                     <Avatar
-                      src="/images/profile.jpg"
+                      src={`${import.meta.env.BASE_URL}images/profile.jpg`}
                       alt="Hafiz Muhammad Abubakar"
                       sx={{
                         width: { xs: 180, md: 240 },
